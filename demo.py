@@ -1,0 +1,6 @@
+print("Hello Kislaya")
+print("He")
+print("Hell")
+print("Hello Ki")
+print("Hello Kisl")
+print("Hello Kislaya")
