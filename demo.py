@@ -1,6 +1,6 @@
 print("Hello Kislaya")
 print("He")
-print("Hell")
+print("this is correct")
 print("Hello Ki")
 print("Hello Kisl")
 print("Hello Kislaya")
